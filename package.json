@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tejon-melero/react-ui.git"
+    "url": "git+https://github.com/tejon-melero/akommo-react-ui.git"
   },
   "author": "Matyas Karacsonyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tejon-melero/react-ui/issues"
+    "url": "https://github.com/tejon-melero/akommo-react-ui/issues"
   },
-  "homepage": "https://github.com/tejon-melero/react-ui#readme"
+  "homepage": "https://github.com/tejon-melero/akommo-react-ui#readme"
 }
