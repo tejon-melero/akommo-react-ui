@@ -1,0 +1,46 @@
+{
+  "name": "@matyas/akommo-react-ui",
+  "version": "1.0.0",
+  "description": "A forked version of with support for fallback options in the Select.js Component of https://github.com/Cotidia/react-ui",
+  "main": "lib/index.js",
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "peerDependencies": {
+    "react": "^15.5 || ^16.0",
+    "react-dom": "^15.5 || ^16.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "moment": "^2.15.0",
+    "moment-range": "^3.0.3",
+    "prop-types": "^15.5.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^6.10.3",
+    "npm-run-all": "^4.0.2",
+    "react": "^15.5",
+    "react-dom": "^15.5",
+    "rimraf": "^2.6.1",
+    "webpack": "^1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejon-melero/react-ui.git"
+  },
+  "author": "Matyas Karacsonyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejon-melero/react-ui/issues"
+  },
+  "homepage": "https://github.com/tejon-melero/react-ui#readme"
+}
